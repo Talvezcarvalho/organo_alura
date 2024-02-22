@@ -1,0 +1,19 @@
+.time-card {
+    text-align: center;
+    padding: 1em;
+    
+}
+
+.time-card h3 {
+    font-size: 1.5em;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.time-card .colaboradores {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
