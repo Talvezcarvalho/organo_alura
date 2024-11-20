@@ -1,0 +1,88 @@
+{
+  "colaboradores": [
+    {
+      "nome": "Carlos Alberto",
+      "cargo": "Desenvolvedor",
+      "imagem": "https://s2-techtudo.glbimg.com/sEmuW0x-ZjnIsK8m6Q7R4kd5DqY=/0x0:1024x576/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/x/h/H1f77qRAau300vsAXuvA/alanzoka-nomes-mais-conhecidos-1024x576.jpg",
+      "time": "Front-End",
+      "id": "2e8a"
+    },
+    {
+      "nome": "Larissa Oliveira",
+      "cargo": "Engenheira de Software",
+      "imagem": "https://s2-techtudo.glbimg.com/sEmuW0x-ZjnIsK8m6Q7R4kd5DqY=/0x0:1024x576/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/x/h/H1f77qRAau300vsAXuvA/alanzoka-nomes-mais-conhecidos-1024x576.jpg",
+      "time": "Front-End",
+      "id": "af2a"
+    },
+    {
+      "nome": "Rodrigo Santos",
+      "cargo": "UI/UX Designer",
+      "imagem": "https://s2-techtudo.glbimg.com/sEmuW0x-ZjnIsK8m6Q7R4kd5DqY=/0x0:1024x576/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/x/h/H1f77qRAau300vsAXuvA/alanzoka-nomes-mais-conhecidos-1024x576.jpg",
+      "time": "Front-End",
+      "id": "836e"
+    },
+    {
+      "nome": "Joana Silva",
+      "cargo": "Cientista de Dados",
+      "imagem": "https://s2-techtudo.glbimg.com/sEmuW0x-ZjnIsK8m6Q7R4kd5DqY=/0x0:1024x576/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/x/h/H1f77qRAau300vsAXuvA/alanzoka-nomes-mais-conhecidos-1024x576.jpg",
+      "time": "Data Science",
+      "id": "eea7"
+    },
+    {
+      "nome": "Lucas Mendes",
+      "cargo": "Analista de Dados",
+      "imagem": "https://s2-techtudo.glbimg.com/sEmuW0x-ZjnIsK8m6Q7R4kd5DqY=/0x0:1024x576/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/x/h/H1f77qRAau300vsAXuvA/alanzoka-nomes-mais-conhecidos-1024x576.jpg",
+      "time": "Data Science",
+      "id": "71f7"
+    },
+    {
+      "nome": "Pedro Oliveira",
+      "cargo": "Engenheiro de DevOps",
+      "imagem": "https://s2-techtudo.glbimg.com/sEmuW0x-ZjnIsK8m6Q7R4kd5DqY=/0x0:1024x576/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/x/h/H1f77qRAau300vsAXuvA/alanzoka-nomes-mais-conhecidos-1024x576.jpg",
+      "time": "DevOps",
+      "id": "dde6"
+    },
+    {
+      "nome": "Mariana Costa",
+      "cargo": "Especialista em Cloud",
+      "imagem": "https://s2-techtudo.glbimg.com/sEmuW0x-ZjnIsK8m6Q7R4kd5DqY=/0x0:1024x576/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/x/h/H1f77qRAau300vsAXuvA/alanzoka-nomes-mais-conhecidos-1024x576.jpg",
+      "time": "DevOps",
+      "id": "38d1"
+    },
+    {
+      "nome": "Maria Santos",
+      "cargo": "Designer de UX",
+      "imagem": "https://s2-techtudo.glbimg.com/sEmuW0x-ZjnIsK8m6Q7R4kd5DqY=/0x0:1024x576/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/x/h/H1f77qRAau300vsAXuvA/alanzoka-nomes-mais-conhecidos-1024x576.jpg",
+      "time": "UX e Design",
+      "id": "9420"
+    },
+    {
+      "nome": "Rafael Silva",
+      "cargo": "Arquiteto de Informação",
+      "imagem": "https://s2-techtudo.glbimg.com/sEmuW0x-ZjnIsK8m6Q7R4kd5DqY=/0x0:1024x576/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/x/h/H1f77qRAau300vsAXuvA/alanzoka-nomes-mais-conhecidos-1024x576.jpg",
+      "time": "UX e Design",
+      "id": "4e30"
+    },
+    {
+      "nome": "Fernanda Pereira",
+      "cargo": "Gerente de Inovação",
+      "imagem": "https://s2-techtudo.glbimg.com/sEmuW0x-ZjnIsK8m6Q7R4kd5DqY=/0x0:1024x576/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/x/h/H1f77qRAau300vsAXuvA/alanzoka-nomes-mais-conhecidos-1024x576.jpg",
+      "time": "Inovação e Gestão",
+      "id": "d51e"
+    },
+    {
+      "nome": "Guilherme Rodrigues",
+      "cargo": "Especialista em Processos",
+      "imagem": "https://s2-techtudo.glbimg.com/sEmuW0x-ZjnIsK8m6Q7R4kd5DqY=/0x0:1024x576/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/x/h/H1f77qRAau300vsAXuvA/alanzoka-nomes-mais-conhecidos-1024x576.jpg",
+      "time": "Inovação e Gestão",
+      "id": "e7e4"
+    },
+    {
+      "nome": "Carla Ferreira",
+      "cargo": "Analista de Projetos",
+      "imagem": "https://s2-techtudo.glbimg.com/sEmuW0x-ZjnIsK8m6Q7R4kd5DqY=/0x0:1024x576/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/x/h/H1f77qRAau300vsAXuvA/alanzoka-nomes-mais-conhecidos-1024x576.jpg",
+      "time": "Inovação e Gestão",
+      "id": "580e"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+.botao-controle {
+    padding: 1em;
+    background-color: #6278f7;
+    height: 5em;
+    width: 6em;
+    color: white;
+    border-radius: 10px;
+    align-self: flex-end;
+}
